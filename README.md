@@ -4,7 +4,7 @@ This repository contains the implementation of the paper "On the Effect of Key F
 
 ## Prerequisites
 
-Before executing the code, please ensure to have the following:
+Before executing the code, please ensure to have the following prerequisites:
 
 1. **Datasets**: 
    - CIFAR-10
