@@ -1,6 +1,6 @@
 # Implementation of "On the Effect of Key Factors in Spurious Correlation: A Theoretical Perspective"
 
-This repository contains the implementation of the paper "On the Effect of Key Factors in Spurious Correlation: A Theoretical Perspective," which has been accepted at AISTATS 2024.
+This repository contains the implementation of the paper "On the Effect of Key Factors in Spurious Correlation: A Theoretical Perspective", which has been accepted at AISTATS 2024.
 
 ## Prerequisites
 
